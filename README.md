@@ -23,11 +23,7 @@
 ### Tech Stack / Công Nghệ
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,vite,supabase,docker,linux,bash,git,github,postgres,redis,nginx,vscode,swift&theme=dark&perline=11" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,vite,supabase,docker,linux,bash,git,github,postgres,redis,nginx,vscode,swift&theme=light&perline=11" />
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,vite,supabase,docker,linux,bash,git,github,postgres,redis,nginx,vscode,swift&theme=dark&perline=11" alt="Tech Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,expressjs,html,css,tailwindcss,vite,docker,linux,git,github,postgresql,redis,nginx,vscode,swift&theme=dark&perline=10" alt="Tech Stack" />
 </p>
 
 ---
