@@ -24,9 +24,9 @@
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,docker,linux,bash,git,github,postgres,redis,nginx,vscode&theme=dark&perline=9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,docker,linux,bash,git,github,postgres,redis,nginx,vscode&theme=light&perline=9" />
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,docker,linux,bash,git,github,postgres,redis,nginx,vscode&theme=dark&perline=9" alt="Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,vite,supabase,docker,linux,bash,git,github,postgres,redis,nginx,vscode,swift&theme=dark&perline=11" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,vite,supabase,docker,linux,bash,git,github,postgres,redis,nginx,vscode,swift&theme=light&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,vite,supabase,docker,linux,bash,git,github,postgres,redis,nginx,vscode,swift&theme=dark&perline=11" alt="Skills" />
   </picture>
 </a>
 
@@ -59,11 +59,23 @@ git clone https://github.com/trvanthanhhmaster-spec/motionsites-prompts.git
 
 ---
 
+**[macSCP](https://github.com/trvanthanhhmaster-spec/macSCP)** — SSH client for macOS, alternative to Putty & WinSCP. Kết nối và quản lý remote server an toàn.
+
+---
+
+**[Citadel](https://github.com/trvanthanhhmaster-spec/Citadel)** — SSH Client & Server framework in Swift.
+
+---
+
+**[swift-nio-ssh](https://github.com/trvanthanhhmaster-spec/swift-nio-ssh)** — Fork of Apple's NIOSSH, awaiting upstream PR merges.
+
+---
+
 ### Connect / Liên Hệ
 
 - Website: [vietnamsir.com](https://vietnamsir.com)
 - GitHub: [@trvanthanhhmaster-spec](https://github.com/trvanthanhhmaster-spec)
-- Project: [aaai-free](https://trvanthanhhmaster-spec.github.io/aaai-free/)
+- Project: [aaai-free](https://trvanthanhhmaster-spec.github.io/aaai-free/) | [motionsites-prompts](https://github.com/trvanthanhhmaster-spec/motionsites-prompts)
 
 ---
 
