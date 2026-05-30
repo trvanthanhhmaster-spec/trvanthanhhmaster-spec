@@ -24,9 +24,9 @@
 
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,linux,git,bash,vscode&theme=dark&perline=5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,linux,git,bash,vscode&theme=light&perline=5" />
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,linux,git,bash,vscode&theme=dark&perline=5" alt="Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,docker,linux,bash,git,github,postgres,redis,nginx,vscode&theme=dark&perline=9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,docker,linux,bash,git,github,postgres,redis,nginx,vscode&theme=light&perline=9" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,docker,linux,bash,git,github,postgres,redis,nginx,vscode&theme=dark&perline=9" alt="Skills" />
   </picture>
 </a>
 
