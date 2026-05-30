@@ -47,6 +47,18 @@ cd aaai-free && sudo bash install.sh
 
 ---
 
+**[MotionSites Prompts](https://github.com/trvanthanhhmaster-spec/motionsites-prompts)** — 177 mẫu prompt AI từ motionsites.ai. 177 AI prompt templates for React + Tailwind CSS + Framer Motion landing pages.
+
+> Dataset chứa toàn bộ prompt kèm metadata: React 19, Vite, TypeScript, Tailwind CSS, Mux video, Cloudinary assets. 34 danh mục, 63 prompt miễn phí, 114 trả phí.
+>
+> Full prompt dataset with metadata: React 19, Vite, TypeScript, Tailwind CSS, Mux video, Cloudinary assets. 34 categories, 63 free, 114 paid.
+
+```bash
+git clone https://github.com/trvanthanhhmaster-spec/motionsites-prompts.git
+```
+
+---
+
 ### Connect / Liên Hệ
 
 - Website: [vietnamsir.com](https://vietnamsir.com)
