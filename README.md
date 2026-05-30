@@ -1,33 +1,53 @@
-### Hi there 👋
-
-I'm **Tr Van Thanh** — a software developer from Vietnam passionate about building tools that give users more control over their software.
-
----
-
-## 🔧 What I build
-
-- **Developer tools** that remove artificial limitations
-- **Reverse engineering** for interoperability
-- **Web applications** with modern stacks
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**aaAI-Free**](https://github.com/trvanthanhhmaster-spec/aaai-free) | Unlock aaPanel AI Assistant — use your own API keys without quota/PRO restrictions. Runtime patching, zero encrypted file modification. |
-| More coming soon... | |
-
-## 🛠 Tech Stack
-
-`Python` `JavaScript` `TypeScript` `React` `Node.js` `Docker` `Linux` `Shell` `Git` `REST APIs` `AI/LLM Integration`
-
-## 📫 Connect
-
-- Website: [vietnamsir.com](https://vietnamsir.com)
-- GitHub: [@trvanthanhhmaster-spec](https://github.com/trvanthanhhmaster-spec)
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║                    [ TRẦN VĂN THÀNH ]                          ║
+║                    REV 1.0 // SOFTWARE DEVELOPER               ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
 
 ---
 
-<p align="center">
-  <i>"Software should serve its users, not its vendors."</i>
-</p>
+### `>>> WHOAMI`
+
+**Trần Văn Thành** — Software Developer từ Việt Nam. Tôi xây dựng công cụ trao quyền kiểm soát cho người dùng, gỡ bỏ những giới hạn nhân tạo trong phần mềm.
+
+**Tr Van Thanh** — Software Developer from Vietnam. I build tools that give users control by removing artificial limitations in software.
+
+---
+
+### `>>> STACK`
+
+```
+PYTHON    JAVASCRIPT    TYPESCRIPT    REACT    NODE.JS
+DOCKER    LINUX         SHELL         GIT      REST-APIS
+AI/LLM    REVERSE-ENGINEERING
+```
+
+---
+
+### `>>> PROJECTS`
+
+| STATUS | PROJECT | DESCRIPTION |
+|--------|---------|-------------|
+| `LIVE` | [**aaAI-Free**](https://github.com/trvanthanhhmaster-spec/aaai-free) | Mở khóa aaPanel AI Assistant — dùng API key của bạn, không giới hạn quota/PRO. |
+| | | Unlock aaPanel AI Assistant — use your own API keys, no quota/PRO restrictions. |
+| `DEV` | ... | |
+
+---
+
+### `>>> LINKS`
+
+| | |
+|---|---|
+| `[ WEBSITE ]` | [vietnamsir.com](https://vietnamsir.com) |
+| `[ GITHUB ]` | [github.com/trvanthanhhmaster-spec](https://github.com/trvanthanhhmaster-spec) |
+| `[ PROJECT ]` | [trvanthanhhmaster-spec.github.io/aaai-free](https://trvanthanhhmaster-spec.github.io/aaai-free/) |
+
+---
+
+<pre>
+╔══════════════════════════════════════════════════════════════════╗
+║  "Software should serve its users, not its vendors."           ║
+║  "Phần mềm nên phục vụ người dùng, không phải nhà cung cấp."   ║
+╚══════════════════════════════════════════════════════════════════╝
+</pre>
